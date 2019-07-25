@@ -1,0 +1,7 @@
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+D:\18.11.2248\ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
